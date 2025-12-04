@@ -149,8 +149,8 @@ I'm currently seeking remote opportunities as a **Full Stack Developer**, **Back
 
 If you're building something interesting, let's talk:
 
-- 📧 Email: [your-email@gmail.com]
-- 💼 LinkedIn: [linkedin.com/in/samuel-escobar](https://linkedin.com/in/samuel-escobar)
+- 📧 Email: samuelescobarbejarano@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/samuel-escobar7](https://www.linkedin.com/in/samuel-escobar7/)
 - 📄 Resume: [Download PDF](link-to-your-resume.pdf)
 
 ---
