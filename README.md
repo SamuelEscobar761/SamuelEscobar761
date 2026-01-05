@@ -85,7 +85,7 @@ Built document processing and geographic analysis for regulatory compliance.
 
 **Impact:**
 - **$1M+ USD in annual savings**
-- 70K+ documents processed with OCR
+- 50K+ documents processed with OCR
 - Search time: 8 hours → <4 hours
 - 300-400% increase in relevant results
 
