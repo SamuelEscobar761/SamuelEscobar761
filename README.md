@@ -176,12 +176,6 @@ Coming soon! I'll be sharing insights about:
 
 ---
 
-## 📊 GitHub Stats
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-escobar&show_icons=true&theme=radical)
-
----
-
 *Available for remote work worldwide | Can start immediately | Flexible with US/EU timezones*
 
 ---
