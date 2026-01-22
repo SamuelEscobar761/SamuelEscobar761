@@ -138,8 +138,8 @@ ERP system with custom image classification for textile retail.
 
 ## 🎓 Education
 
-**Bachelor of Systems Engineering**  
-Universidad Privada Boliviana (UPB) | 2024
+**Bachelor of Computer Systems Engineering**  
+Universidad Privada Boliviana (UPB)
 
 ---
 
@@ -151,7 +151,6 @@ If you're building something interesting, let's talk:
 
 - 📧 Email: samuelescobarbejarano@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/samuel-escobar7](https://www.linkedin.com/in/samuel-escobar7/)
-- 📄 Resume: [Download PDF](link-to-your-resume.pdf)
 
 ---
 
@@ -163,16 +162,6 @@ If you're building something interesting, let's talk:
 ✅ **AWS architecture** designed from scratch  
 ✅ **Clear communication** with non-technical stakeholders  
 ✅ **Fast learner** (learned AWS from zero in one project)  
-
----
-
-## 💡 Recent Blog Posts & Articles
-
-Coming soon! I'll be sharing insights about:
-- Building asynchronous systems at scale
-- AWS microservices architecture patterns
-- Leading development teams effectively
-- OCR processing for large document sets
 
 ---
 
